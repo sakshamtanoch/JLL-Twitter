@@ -24,9 +24,10 @@ Make sure that all the libraries used in the code are installed in the notebook.
 
 Run the code in the notebook.
 
-After the code finishes executing, a CSV file named "jll_india_tweets.csv" will be created in the notebook's file directory. This file will contain the scraped data.
+After the code finishes executing, a CSV file named "JllIndia.csv" will be created in the notebook's file directory. This file will contain the scraped data.
 
 ## Limitations
+
 This web crawler has a few limitations:
 
 The code may not work if Twitter changes its HTML code.
